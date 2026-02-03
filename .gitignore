@@ -30,6 +30,7 @@ build/
 ##############################
 application-*.yml
 application-*.yaml
+application.properties
 application-*.properties
 
 ##############################
